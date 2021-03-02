@@ -1,0 +1,43 @@
+This is my project app: My Appointment Scheduler/Taker.It is a basic app for scheduling an appointment, however, it is only built for a Hair Stylist.
+
+To use this app :
+
+1. Open the app "My Appointment Scheduler/Taker".
+
+2. The first screen to appear is the home screen/page. On this page, it shows a button labelled "Upload discounted style of the week"; this button will take the user to their gallery where the user will choose a hair style for the week if the user wants to discount  a particular hair style. The hair style selected will be shown on the home page with a default of "20% off".
+
+3. At the bottom of the home page, there are three icons representing add appointments, view appointments and the available styles respectively. Click on the first icon(calendar image with plus sign) to be taken to the add appointments page. Click on the second icon(calendar image with clock) to be taken to the view appointments page. Click on the third icon(image of hair styles) to be taken to the available styles page.
+
+4. To add an appointment, click on the first icon. The user is now taken to add appointments page where the user will input the appointment information. By doing so, click on the "off" button to turn "on" for editing. When all the information is inputted, click on "save" to save the appointment.
+
+5. At the bottom of the add appointment page, there are three icons representing home, view appointments and the available styles respectively. Click on the first icon(home image) to be taken to the home page. Click on the second icon(calendar image with clock) to be taken to the view appointments page. Click on the third icon(image of hair styles) to be taken to the available styles page.
+
+6. To view the appointments, click on the second icon. The user will be taken to view appointments page. On this page, the saved appointments list will be displayed with the following: date, name, location and time. Scroll vertically to view more appointments. To remove an appointment when done or not needed, click on the "done" on the top of the page, which will bring buttons to the right of the appointments. Click on the desire "done button" to remove the appointment. 
+
+7. To sort the appointments, click on the "setting" on the top of the view appointments page. The user will be taken to the setting page where the user can choose how they want the appointment to be sorted. The sorting is done by date, location or time, then either by ascending or descending. Click back on the view appointments to view changes made.
+
+8. At the bottom of the setting page, there are three icons representing home, add appointments and the view appointments respectively. Click on the first icon(home image) to be taken to the home page. Click on the second icon(calendar image with plus sign) to be taken to the add appointments page. Click on the third icon(calendar image with clock) to be taken to the view appointments page.
+
+9. At the bottom of the view appointments page, there are three icons representing home, add appointments and the available styles respectively. Click on the first icon(home image) to be taken to the home page. Click on the second icon(calendar image with plus sign) to be taken to the add appointments page. Click on the third icon(image of hair styles) to be taken to the available styles page.
+
+
+10. To view the available styles, click on the third icon, the user will be taken to the available styles page, where the the user can see the types of hair styles that they can perform. To add another style, click on the "add Style" button to be taken to the user's gallery where the user will choose a hair style to add; then on the line with the hint "Name and Price, the user can input the name of the style add and the price.
+
+11. At the bottom of the available style page, there are three icons representing home, add appointments and the view appointments respectively. Click on the first icon(home image) to be taken to the home page. Click on the second icon(calendar image with plus sign) to be taken to the add appointments page. Click on the third icon(calendar image with clock) to be taken to the view appointments page.
+
+
+That's it for my app, you can click the "home" icon to go to home page or you can just exit the app.
+
+Thank you for using my app.
+
+
+P.S.
+
+To whom it may concern
+
+Part of the code was written with the help of the book
+
+Mobile App Development for iOS and Android, Edition 3.0 by
+Jakob Iversen & Michael Eierman.
+
+
