@@ -4,7 +4,7 @@ This is an appointment taker android app that i developed for my mother to help 
 keep up with scheduling appointments for her hair braiding business.
 
 If you are interested in testing the app with a PC/Mac, please use the released apk (https://github.com/rbodson1/PersonalProject-AppointmentTaker/tree/master/release) with the help of BlueStacks
-Please refer to the HowToUse.txt on how to use the app! Thank you.
+Please refer to the HowToUse.txt on how to use the app, Thank you.
 
 Screenshots of the app
 
